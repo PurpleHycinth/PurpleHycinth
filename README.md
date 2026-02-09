@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning MSc ML & AI
-- 👯 I’m looking to collaborate on Machine learning projects
-- 🤔 I’m looking for help with Cyber Security and Psychology 
+- 🌱 I’m currently studying MSc ML & AI
+- 👯 I’m looking to collaborate on Machine learning projects 
 - 💬 Ask me about Mathematics, Physics, Galaxies 
 - 📫 How to reach me: swaralid42@gmail.com
 - 😄 Pronouns: she/her
